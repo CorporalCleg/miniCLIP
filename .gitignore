@@ -1,7 +1,7 @@
 # Directories to ignore
-data/
-zero_shot/
-ckpt/
+data/*
+zero_shot/*
+ckpt/*
 __pycache__/
 *.egg-info/
 .ipynb_checkpoints/
