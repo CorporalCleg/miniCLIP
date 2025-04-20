@@ -1,5 +1,5 @@
 # miniCLIP
-This repo is a small version of CLIP model. Here we used ResNet50 and DistilledBERT as vision and text encoder. As dataset [Flickr30k](https://huggingface.co/datasets/nlphuji/flickr30k) was used.
+This repo is a small version of CLIP model. Here we used ResNet50 and DistilledBERT as vision and text encoder. As dataset [Flickr30k](https://huggingface.co/datasets/nlphuji/flickr30k) was used. Also we checked model capabilities on a [this](https://universe.roboflow.com/qqq-ujrb9/dataset-wmw7n/dataset/1) dataset
 ## Installation 
 
 ```shell
