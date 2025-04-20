@@ -1,0 +1,55 @@
+# Directories to ignore
+data/
+zero_shot/
+ckpt/
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.idea/
+.vscode/
+
+# File types to ignore
+*.pt
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.ipynb
+*.class
+*.log
+*.bak
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.sublime-*
+*.komodoproject
+*.kdev4
+*.orig
+
+# Virtual environment files
+venv/
+env/
+ENV/
+*.venv
+
+# Build and distribution files
+build/
+dist/
+*.egg
+*.eggs
+*.manifest
+*.spec
+
+# Coverage and testing
+.coverage
+htmlcov/
+.pytest_cache/
+*.csv
