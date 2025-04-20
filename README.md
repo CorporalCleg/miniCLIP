@@ -19,7 +19,7 @@ python train_eval.py
 ```
 ### Zero-shot classification
 
-To make a zero-shot you will need to download [checkpoint]() and put into ```ckpt/``` and [zero-shot data](https://drive.google.com/file/d/1GkBgcVtzTnZkCTV7KBSbSyi5HBl9Ijh8/view?usp=sharing) to ```zero shot/```
+To make a zero-shot you will need to download [checkpoint](https://drive.google.com/file/d/1NUQKabiV16Y3w5iBmNwVjIZS9RrjPelV/view?usp=sharing) and put into ```ckpt/``` and [zero-shot data](https://drive.google.com/file/d/1GkBgcVtzTnZkCTV7KBSbSyi5HBl9Ijh8/view?usp=sharing) to ```zero shot/```
 
 ```shell
 cd src/
